@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author 关注公众号：MarkerHub
  * @since 2020-07-15git pull时加上–allow-unrelated-histories
- * wk
  */
 @RestController
 @RequestMapping("/user")
