@@ -5,7 +5,9 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
-
+/**
+ * @author 魏凯
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

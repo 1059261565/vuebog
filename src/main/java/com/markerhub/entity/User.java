@@ -8,14 +8,8 @@ import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.experimental.Accessors;
-
 /**
- * <p>
- * 
- * </p>
- *
- * @author 关注公众号：MarkerHub
- * @since 2020-07-15
+ * @author 魏凯
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
